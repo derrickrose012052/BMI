@@ -49,6 +49,10 @@ namespace BMI
             {
                 throw new Exception("亂填");
             }
+            switch (switch_on)
+            {
+                default:
+            }
         }
     }
 }
